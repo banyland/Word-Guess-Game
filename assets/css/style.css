@@ -1,0 +1,42 @@
+body {
+    margin: 0%;
+    background: black;
+}
+
+.container {
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center;
+    color: white;
+}
+
+.row {
+    width: 100%;
+
+}
+
+.thumbnail {
+    position: relative;
+    background-color: black;
+    border: none;
+    height: 50%;
+}
+
+.heading {
+    position: absolute;
+    top: 5%;
+    left: 0;
+    width: 100%;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 2px, yellow;
+}
+
+h3 {
+    color: white;
+}
+
+.col-md-12 {
+    color: white;
+    text-align: center;
+}
